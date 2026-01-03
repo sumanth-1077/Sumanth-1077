@@ -25,6 +25,7 @@
 - 🔹 Project 1 — *Earning Potential Data Analysis*  
 - 🔹 Project 2 — *Real-Time Car Parking System (Image Processing)*  
 - 🔹 Project 3 — *Student Accommodation Website*  
+- 🔹 Project 4 - *employee_exit_prediction project
 
 > *(More projects coming soon — stay tuned!)*
 
