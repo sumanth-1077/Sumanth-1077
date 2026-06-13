@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Fresher exploring opportunities in **Software Development & Machine Learning**
+- 🎓 Fresher exploring opportunities in **Software Development & AI/ML**
 - 🧠 Interested in **AI, Data Science, Web Development, and Automation**
 - 💻 Love working on hands-on projects and improving my skills
 - 🌱 Currently learning **Python, Machine Learning, and Full-Stack Development**
@@ -16,8 +16,8 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python, Java, HTML, CSS, JavaScript, Automation Testing 
-**Frameworks / Tools:** NumPy, Pandas, Matplotlib, Git, VS Code, Eclipse  
-**Areas of Interest:** Machine Learning, Data Analysis, Web Applications
+**Frameworks / Tools:** NumPy, Pandas, Matplotlib, Git, VS Code, Eclipse, Flask, Streamlit 
+**Areas of Interest:** Machine Learning, Data Analysis, Web Applications, Data Analyst
 
 ---
 
@@ -25,7 +25,7 @@
 - 🔹 Project 1 — *Earning Potential Data Analysis*  
 - 🔹 Project 2 — *Real-Time Car Parking System (Image Processing)*  
 - 🔹 Project 3 — *Student Accommodation Website*  
-- 🔹 Project 4 - *employee_exit_prediction project
+- 🔹 Project 4 - *AI Real Estate Valution System
 
 > *(More projects coming soon — stay tuned!)*
 
