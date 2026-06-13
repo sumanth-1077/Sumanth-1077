@@ -1,6 +1,6 @@
 # 👋 Hi, I'm THUMMAPUDI VENKATA SUMANTH
 
-🎯 Aspiring **Software Developer & AI Engineer**  
+🎯 Aspiring **Software Developer & AI Developer**  
 💡 Passionate about building real-world projects, learning new technologies, and solving problems through code.
 
 ---
